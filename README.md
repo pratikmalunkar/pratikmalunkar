@@ -37,8 +37,8 @@ const pratik = {
    
  
  <a href="https://www.linkedin.com/in/pratik-malunjkar-17233125b" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" /></a>
-  
-    <a href="mailto:pratikmalunjkar570@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/EMail-005F73?style=for-the-badge&logo=gmail&logoColor=white" alt="portfolio" height="30" /></a>
+      <a href="mailto:pratikmalunjkar570@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/EMail-005F73?style=for-the-badge&logo=gmail&logoColor=white" alt="portfolio" height="30" /></a>
+
 </p>
 
 <h2>Languages and Tools:</h2>
